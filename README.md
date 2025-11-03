@@ -38,6 +38,7 @@ HUD (Interfaz Gráfica): La interfaz muestra las vidas actuales del jugador (en 
 
 
 🛠️ Implementación Técnica
+
 Este proyecto se desarrolló como una versión beta utilizando el motor de videojuegos Unity. La programación se realizó en C++, centrándose en el trabajo con objetos y la relación entre las distintas clases.
 
 
